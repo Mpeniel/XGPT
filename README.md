@@ -1,2 +1,2 @@
-# Xvscode
+# XGPT
 GPT in VSCode
